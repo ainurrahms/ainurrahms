@@ -1,7 +1,7 @@
 ### Hi there you can call me Ainur 👋
 #### Highly presistent Frontend Engineer with 3+ years of experience in Web Development.
 
-- 🔭 I’m currently working on **Amartha Mikrofintech**
+- 🔭 I’m currently working on [**Amartha Mikrofintech**](https://amartha.com/)
 
 - 🌱 I’m currently learning **NextJS, ReactJS and React Testing Library**
 
