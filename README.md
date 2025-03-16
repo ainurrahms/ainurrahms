@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ainurrahms@gmail.com**
 
-- 📄 My Personal Website is on [My Website/](https://ainurrahms.vercel.app/)
+- 📄 My Personal Website is on [My Website](https://ainurrahms.vercel.app/)
 
 - ⚡ Fun fact **I like writing everything that i know on Notion**
 
